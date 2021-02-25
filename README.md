@@ -6,7 +6,7 @@ The rootstrap app ~ integrated bootstrap
 Releases > RootTerm.apk > Install
 
 # About
-This is the pre-installed with termux apk for https://github.com/sakurai07/rootstrao/
+This is the pre-installed with termux apk for https://github.com/sakurai07/rootstrap/
 
 # Difference?
 This is just as a pre-installed apk instead of installing termux and then running the bash installer
